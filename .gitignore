@@ -1,0 +1,9 @@
+#dependencies
+/node_modules/
+
+#vs code settings
+.vscode/
+
+#js config
+.jsconfig.json
+
